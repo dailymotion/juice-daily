@@ -1,0 +1,9 @@
+{
+    "background"       : "bgcolor",
+    "background-color" : "bgcolor",
+    "padding"          : "cellpadding",
+    "text-align"       : "align",
+    "width"            : "width",
+    "height"           : "height",
+    "border"           : "border"
+}
