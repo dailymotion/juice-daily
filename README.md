@@ -1,9 +1,13 @@
-[![Build Status](https://travis-ci.org/LearnBoost/juice.png?branch=master)](https://travis-ci.org/LearnBoost/juice)
-[![Dependency Status](https://david-dm.org/LearnBoost/juice.png)](https://david-dm.org/LearnBoost/juice)
-# Juice ![](http://i.imgur.com/jN8Ht.gif)
+# Juice-Daily
 
 Given HTML, juice will inline your CSS properties into the `style`
 attribute.
+
+## Module forked from [juice](https://www.npmjs.org/package/juice)
+This module exists to add a specific option to the Juice module: transform css rules into html attributes (bgcolor, align, border, etc). A pull request on the original module is in progress.
+You shouldn't use this plugin. Prefer [juice](https://www.npmjs.org/package/juice).
+
+---
 
 ## How to use
 
