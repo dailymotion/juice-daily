@@ -1,33 +1,41 @@
 {
   "name": "juice-daily",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Inlines css into html source",
   "bin": "./bin/juice",
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "contributors": [{
-    "name": "Guillermo Rauch",
-    "email": "guillermo@learnboost.com"
-  }, {
-    "name": "Arian Stolwijk",
-    "email": "arian@aryweb.nl"
-  }, {
-    "name": "Paweł Marzec",
-    "email": "rork@cojestgrane.pl"
-  }, {
-    "name": "Andrew Kelley",
-    "email": "superjoe30@gmail.com"
-  }, {
-    "name": "Francois-Guillaume Ribreau",
-    "email": "npm@fgribreau.com"
-  }, {
-    "name": "Fanny Cheung",
-    "email": "fanny@ynote.hk"
-  }, {
-    "name": "Romain Berger",
-    "email": ""
-  }],
+  "contributors": [
+    {
+      "name": "Guillermo Rauch",
+      "email": "guillermo@learnboost.com"
+    },
+    {
+      "name": "Arian Stolwijk",
+      "email": "arian@aryweb.nl"
+    },
+    {
+      "name": "Paweł Marzec",
+      "email": "rork@cojestgrane.pl"
+    },
+    {
+      "name": "Andrew Kelley",
+      "email": "superjoe30@gmail.com"
+    },
+    {
+      "name": "Francois-Guillaume Ribreau",
+      "email": "npm@fgribreau.com"
+    },
+    {
+      "name": "Fanny Cheung",
+      "email": "fanny@ynote.hk"
+    },
+    {
+      "name": "Romain Berger",
+      "email": ""
+    }
+  ],
   "engines": {
     "node": ">=0.8.0"
   },
