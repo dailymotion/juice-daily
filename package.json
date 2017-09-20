@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "cssom": "0.3.0",
-    "jsdom": "0.9.0",
+    "jsdom-daily": "dailymotion/jsdom-daily",
     "batch": "0.5.1",
     "superagent": "~0.20.0",
     "commander": "2.3.0",
